@@ -46,6 +46,9 @@ La aplicación estará disponible en [http://localhost:8501](http://localhost:85
 - Para cambiar los datos, edita el archivo `BD/employees.csv`.
 - Para modificar la visualización, edita `streamlit_app.py`.
 
+## Link de la app
+https://ejercicio-empleatronix-kqsnmdx8e4pyntsb7srgjc.streamlit.app/
+
 ## Autor
 © Ismael Guerrero Martín
 
